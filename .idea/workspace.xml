@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f91db2-0313-414b-aa0b-86f94184d2df" name="Default Changelist" comment="" />
+    <list default="true" id="652a81e8-3310-4e7e-8c40-d6d09a62e6b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SyntaxTreeBuilder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SyntaxTreeBuilder/META-INF/SyntaxTreeBuilder.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SyntaxTreeBuilder/de/ratsch0k/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SyntaxTreeBuilder/de/ratsch0k/SyntaxTreeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/ratsch0k/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/ratsch0k/SyntaxTreeBuilder.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,64 +29,87 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="syntax-tree-from-prefix-term-builder" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="syntax-tree-from-prefix-term-builder" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="syntax-tree-from-prefix-term-builder" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1c8wxY8u5GfoO26Z9plUyabf98u" />
+  <component name="ProjectId" id="1c96AZUi91B0wdvTkcBJaRGGeTC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_161/bin/jvisualvm.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="de.ratsch0k" />
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SyntaxTreeBuilder">
+  <component name="RunManager" selected="Gradle.syntax-tree-from-prefix-term-builder [run]">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="de.ratsch0k.Main" />
-      <module name="SyntaxTreeBuilder" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;HELLO&quot;" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SyntaxTreeBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.ratsch0k.SyntaxTreeBuilder" />
-      <module name="SyntaxTreeBuilder" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;+ + 1 * 2 4 5&quot;" />
+      <option name="MAIN_CLASS_NAME" value="SyntaxTreeBuilder" />
+      <module name="syntax-tree-from-prefix-term-builder.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.ratsch0k.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,6 +122,63 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="syntax-tree-from-prefix-term-builder [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="syntax-tree-from-prefix-term-builder [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="syntax-tree-from-prefix-term-builder [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -106,16 +205,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.SyntaxTreeBuilder" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.syntax-tree-from-prefix-term-builder [run]" />
+        <item itemvalue="Gradle.syntax-tree-from-prefix-term-builder [build]" />
+        <item itemvalue="Gradle.syntax-tree-from-prefix-term-builder [dependencies]" />
         <item itemvalue="Application.SyntaxTreeBuilder" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exercise01/ex01/ex01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exercise05/ex05" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exercise06/ex06" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exercise08/ex08/ex08" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exercise10/ex10" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exercise11/ex11" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exercise12/ex12" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Studium/SE/Software-Engineering-Exercises/exericse02/ex02" value="PREVIEW" />
+      </map>
+    </option>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -134,12 +245,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e3f91db2-0313-414b-aa0b-86f94184d2df" name="Default Changelist" comment="" />
-      <created>1589923775274</created>
+      <changelist id="652a81e8-3310-4e7e-8c40-d6d09a62e6b3" name="Default Changelist" comment="" />
+      <created>1589928318164</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589923775274</updated>
-      <workItem from="1589923779196" duration="3937000" />
+      <updated>1589928318164</updated>
+      <workItem from="1589928324618" duration="1129000" />
     </task>
     <servers />
   </component>
@@ -147,77 +258,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589925397830">
+    <state x="872" y="357" width="1297" height="883" key="#Project_Structure" timestamp="1589928608664">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589925397830" />
-    <state x="1076" y="584" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589924981235">
+    <state x="872" y="357" width="1297" height="883" key="#Project_Structure/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589928608664" />
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589928896120">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1076" y="584" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589924981235" />
-    <state x="1076" y="605" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1589925169615">
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589928896120" />
+    <state x="1076" y="584" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589928669183">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1076" y="605" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589925169615" />
-    <state x="1088" y="529" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1589926342929">
+    <state x="1076" y="584" width="408" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589928669183" />
+    <state x="1060" y="440" key="FileChooserDialogImpl" timestamp="1589928478387">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1088" y="529" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589926342929" />
-    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1589927722424">
+    <state x="1060" y="440" key="FileChooserDialogImpl/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589928478387" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1589929013019">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722424" />
-    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1589927722424">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589929013019" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1589929013018">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722424" />
-    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1589927722424">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589929013018" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1589929013018">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722424" />
-    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1589927722424">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589929013018" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1589929013018">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722424" />
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1589927722425">
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589929013018" />
+    <state x="781" y="341" key="SettingsEditor" timestamp="1589928810408">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1589927722425">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1589927722425">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1589927722425">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state width="2517" height="492" key="GridCell.Tab.2.bottom" timestamp="1589927722425">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.2.bottom/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state width="2517" height="492" key="GridCell.Tab.2.center" timestamp="1589927722425">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.2.center/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state width="2517" height="492" key="GridCell.Tab.2.left" timestamp="1589927722425">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.2.left/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state width="2517" height="492" key="GridCell.Tab.2.right" timestamp="1589927722425">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.2.right/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927722425" />
-    <state x="781" y="341" key="SettingsEditor" timestamp="1589927333209">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="781" y="341" key="SettingsEditor/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927333209" />
-    <state x="1005" y="660" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589927327703">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1005" y="660" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589927327703" />
+    <state x="781" y="341" key="SettingsEditor/0.0.2560.1400/-1920.360.1920.1040@0.0.2560.1400" timestamp="1589928810408" />
   </component>
 </project>
